@@ -9,6 +9,9 @@ SO THAT I can reliably retrieve them for later use
 A text-editor-app created using front-end and back-end modularized using webpack plugins, next-gen JavaScript
 and also utilizing IndexDb, service worker and manifest.json files. 
 
+## Deployment 
+# Heroku Link: 
+
 
 ## Screenshots 
  * Text Editor
