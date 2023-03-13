@@ -1,2 +1,1 @@
-# PWA-TextEditor
-Progressive-Web-App Text Editor 
+# Text Editor Starter Code
