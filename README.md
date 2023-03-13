@@ -10,7 +10,7 @@ A text-editor-app created using front-end and back-end modularized using webpack
 and also utilizing IndexDb, service worker and manifest.json files. 
 
 ## Deployment 
-# Heroku Link: 
+# Heroku Link: https://text-editor-idb.herokuapp.com/
 
 
 ## Screenshots 
